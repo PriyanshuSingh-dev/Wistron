@@ -12,3 +12,10 @@ if (close) {
         nav.classList.remove('active');
     })
 }
+
+
+const cart = document.querySelector(".pro-container a");
+
+cart.addEventListener("click", function(){
+    
+})
